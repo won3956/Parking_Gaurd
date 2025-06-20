@@ -59,6 +59,8 @@ cover/
 runs/
 wandb/
 output_dir/
+best_model_results/
+model_results/
 
 # Django stuff:
 *.log
