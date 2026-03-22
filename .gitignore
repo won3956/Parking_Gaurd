@@ -54,6 +54,13 @@ cover/
 # Translations
 *.mo
 *.pot
+*.pt
+# *.env
+runs/
+wandb/
+output_dir/
+best_model_results/
+model_results/
 
 # Django stuff:
 *.log
@@ -172,3 +179,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+'.venv' 
+'data/' 
+'prev_code.ipynb' 
+'.venv' 
+'runs/'
